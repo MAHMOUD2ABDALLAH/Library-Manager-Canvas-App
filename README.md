@@ -1,5 +1,3 @@
-# LibraryCanvasApp
-Merging between model driven app and Canvas one in Library School loans manager on Power Platform Resources via PowerApps And PowerAutomate.
 ![MySchoolLibraryCanvasApp (2)](https://github.com/user-attachments/assets/e9f0647f-fe2a-435b-a048-d9fbb65bdb2f)
 ![MySchoolLibraryCanvasApp (3)](https://github.com/user-attachments/assets/9ef3ec82-bc35-440e-bb43-735379bea769)
 ![MySchoolLibraryCanvasApp (4)](https://github.com/user-attachments/assets/2df57954-9a58-48d6-961c-108fcd8f167d)

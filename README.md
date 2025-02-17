@@ -1,8 +1,64 @@
-![MySchoolLibraryCanvasApp (2)](https://github.com/user-attachments/assets/e9f0647f-fe2a-435b-a048-d9fbb65bdb2f)
-![MySchoolLibraryCanvasApp (3)](https://github.com/user-attachments/assets/9ef3ec82-bc35-440e-bb43-735379bea769)
-![MySchoolLibraryCanvasApp (4)](https://github.com/user-attachments/assets/2df57954-9a58-48d6-961c-108fcd8f167d)
-![MySchoolLibraryCanvasApp (5)](https://github.com/user-attachments/assets/abf43e37-5c1a-4efb-a7d0-b260df9c0626)
-![MySchoolLibraryCanvasApp (6)](https://github.com/user-attachments/assets/997bbc3e-1cd8-4a9f-b130-f7271bdbf084)
-![MySchoolLibraryCanvasApp (7)](https://github.com/user-attachments/assets/0cf544b3-66ac-43be-bf2d-890fa99776b9)
-![MySchoolLibraryCanvasApp (8)](https://github.com/user-attachments/assets/0ea43a04-9753-4ad5-88f6-c542d20b3f18)
-![MySchoolLibraryCanvasApp (1)](https://github.com/user-attachments/assets/1fa9e30b-12a8-432c-b80a-198affabe1a9)
+# Library Manager Canvas App
+
+## Overview
+The **Library Manager Canvas App** is a Microsoft Power Apps solution designed to simplify library management by digitizing book inventory, user checkouts, and return tracking. Built using Power Apps, this application provides an intuitive interface for librarians and users to efficiently manage book lending processes.
+
+## Features
+- **Book Inventory Management**: Add, edit, and delete books in the library.
+- **User Management**: Track borrowers and manage their book lending history.
+- **Check-in & Check-out System**: Streamline the lending and returning of books.
+- **Search & Filtering**: Easily locate books using title, author, or genre.
+- **Borrowing Status**: View real-time status of borrowed and available books.
+- **Power Automate Integration**: Automate notifications and reminders.
+
+## Technologies Used
+- **Microsoft Power Apps** (Canvas App for UI and interactions)
+- **Power Automate** (Workflow automation)
+- **Dataverse** (Data storage and management)
+- **SharePoint** (Alternative data storage option)
+
+## Installation & Setup
+### Prerequisites
+Ensure you have the following before deploying the solution:
+- An active **Microsoft 365** account with **Power Platform** access.
+- Required permissions to import Power Apps solutions.
+- Access to **Dataverse** or **SharePoint** for data storage.
+
+### Deployment Steps
+1. **Clone the Repository**
+   ```sh
+   git clone https://github.com/MAHMOUD2ABDALLAH/Library-Manager-Canvas-App.git
+   ```
+2. **Import the App into Power Apps**
+   - Navigate to **Power Apps** > **Apps** > **Import Canvas App**.
+   - Upload the `.msapp` file from the repository.
+3. **Configure Data Sources**
+   - Connect to **Dataverse** or **SharePoint** as required.
+   - Ensure all tables and lists are properly linked.
+4. **Publish and Share**
+   - Test the application in **Power Apps Studio**.
+   - Publish and share it with intended users.
+
+## Usage Guide
+- **Librarians**: Manage book inventory, track borrowed books, and update records.
+- **Users**: Search for books, check availability, and request borrowing.
+- **Automated Reminders**: Users receive notifications for due dates and overdue books.
+
+## Contributing
+Contributions are welcome! To contribute:
+1. Fork the repository.
+2. Create a new feature branch (`feature-name`).
+3. Commit changes and push to GitHub.
+4. Open a pull request for review.
+
+## License
+This project is licensed under the **Microsoft Power Platform Community License**. See the [LICENSE](https://1drv.ms/i/c/52d0424acc8434f6/EdHJwEWhlxVOiQiZ7MJRywgBIX1Gvso2jJyknGbiphNfYg?e=7XbD3k) file for details.
+
+## Contact
+For any inquiries, issues, or feature requests:
+- **Author:** Mahmoud Abdallah
+- **GitHub:** [@MAHMOUD2ABDALLAH](https://github.com/MAHMOUD2ABDALLAH)
+- **Email:** Mahmoud_abdallah20@outlook.com
+
+---
+Feel free to customize this README to better fit your project needs!

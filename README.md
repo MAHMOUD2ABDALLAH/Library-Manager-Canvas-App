@@ -57,8 +57,8 @@ This project is licensed under the **Microsoft Power Platform Community License*
 ## Contact
 For any inquiries, issues, or feature requests:
 - **Author:** Mahmoud Abdallah
-- **GitHub:** [@MAHMOUD2ABDALLAH](https://github.com/MAHMOUD2ABDALLAH)
 - **Email:** Mahmoud_abdallah20@outlook.com
 
----
-Feel free to customize this README to better fit your project needs!
+<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
+
+

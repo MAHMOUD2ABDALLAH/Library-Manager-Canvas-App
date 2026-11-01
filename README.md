@@ -58,7 +58,3 @@ This project is licensed under the **Microsoft Power Platform Community License*
 For any inquiries, issues, or feature requests:
 - **Author:** Mahmoud Abdallah
 - **Email:** Mahmoud_abdallah20@outlook.com
-
-<img src="https://github.com/user-attachments/assets/43d8da7a-8c02-42f5-a367-eb83b90d078c" alt="Upwork Logo" width="50" />
-
-
